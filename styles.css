@@ -1,0 +1,56 @@
+/* To design main layout: */
+.main{
+	margin-top: 200px;
+	margin-left: 200px;
+	border: 1px solid lightgrey;
+	width: 330px;
+	padding: 30px;
+	
+}
+
+.userid-input{
+	font-size: 15px;
+	width: 330px;
+	border-top-style: hidden;
+	border-left-style: hidden;
+	border-right-style: hidden;
+	border-bottom-style: groove;
+}
+
+.ques-btn{
+	background: white;
+	border: 1px solid #9598a3;
+	border-radius: 1000px;
+
+}
+
+.btn-wrapper{
+	text-align:right;
+}
+
+.next-btn{
+	background: #0067b8;
+	color: white;
+	font-size:15px;
+	border:none;
+	padding-top: 4px;
+	padding-bottom: 4px;
+	padding-left: 30px;
+	padding-right: 30px;
+	
+}
+
+/* To design bottom box: */
+.signinoptions-wrapper{
+	margin-top: 15px;
+	margin-left: 200px;
+	border: 1px solid lightgrey;
+	width: 360px;
+	padding-left: 30px;
+	display: flex;
+	justify-content: start;
+}
+.signinoptions-btn{
+	background:white;
+	border:none;
+}
